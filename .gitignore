@@ -1,3 +1,8 @@
+# ignore virtualenv
+venv/
+# ignore tempfiles
+.py~
+
 *.py[cod]
 
 # C extensions
